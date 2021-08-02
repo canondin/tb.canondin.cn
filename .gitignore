@@ -1,5 +1,7 @@
 # Hugo default output directory
 /public
+/resources/
+/themes/
 
 ## OS Files
 # Windows
