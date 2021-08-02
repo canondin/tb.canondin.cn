@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Canon.Din技术"
+theme = "hugo-coder"
